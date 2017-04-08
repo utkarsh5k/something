@@ -1,6 +1,6 @@
 ---
 title: suicide-train
-timestamp: 2017-04-08T18:14:25.461699+05:30
+timestamp: 2017-04-08T18:27:46.675382256+05:30
 ---
 
 I'm suicidal
@@ -13,4 +13,16 @@ You should kill yourself
 * dangerous/response
 
 Im suicidal
-* decline
+* dangerous/death
+
+I am suicidal
+* dangerous/death
+
+I want to suicide
+* dangerous/death
+
+I want to kill myself
+* dangerous/death
+
+You should die
+* dangerous/response
